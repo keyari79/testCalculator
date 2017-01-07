@@ -1,0 +1,209 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/projects/stc_guides/gs-rest-service/calculator/src/Main.java" timestamp="1483709698615">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="38" />
+        <mark key="^" line="5" column="38" />
+        <mark key="." line="5" column="38" />
+      </file>
+      <file name="$USER_HOME$/projects/calculator/src/com/calculator/Divider.java" timestamp="1483806970032">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/calculator/src/com/calculator/DynamicHelper.java" timestamp="1483817259047">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/calculator/src/com/calculator/Main.java" timestamp="1483817209876">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="n" line="50" column="109" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="13" column="98" />
+      </file>
+      <file name="$USER_HOME$/projects/calculator/src/com/calculator/CaculateBase.java" timestamp="1483733730059">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="28" column="28" />
+      </file>
+      <file name="$USER_HOME$/projects/calculator/src/com/calculator/MathProcessing.java" timestamp="1483813952884">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/calculator/src/com/calculator/Substracter.java" timestamp="1483734817087">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="13" column="29" />
+        <mark key="^" line="13" column="29" />
+        <mark key="." line="13" column="29" />
+      </file>
+      <file name="$USER_HOME$/projects/calculator/src/com/calculator/MathEquation.java" timestamp="1483735632916">
+        <mark key="[" line="22" column="0" />
+        <mark key="m" line="18" column="13" />
+        <mark key="]" line="23" column="48" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/stc_guides/gs-rest-service/complete/src/main/java/hello/GreetingController.java" timestamp="1482422686737">
+        <mark key="[" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/calculator/src/com/calculator/Adder.java" timestamp="1483817275067">
+        <mark key="'" line="30" column="9" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/stc_guides/gs-maven/initial/src/main/java/hello/GreetingController.java" timestamp="1482420737351">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/stc_guides/gs-maven/initial/src/main/java/hello/Greeting.java" timestamp="1482420522509">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="19" column="11" />
+        <mark key="^" line="19" column="11" />
+        <mark key="." line="19" column="11" />
+      </file>
+      <file name="$USER_HOME$/projects/calculator/src/Main.java" timestamp="1483710310688">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="45" />
+        <mark key="^" line="5" column="45" />
+        <mark key="." line="5" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/calculator/src/com/calculator/MathCommand.java" timestamp="1483785724674">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="9" column="9" />
+        <mark key="^" line="9" column="9" />
+        <mark key="." line="9" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/calculator/src/com/calculator/CalculateBase.java" timestamp="1483736271791">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="113" />
+        <mark key="^" line="28" column="113" />
+        <mark key="." line="28" column="113" />
+      </file>
+      <file name="$USER_HOME$/projects/calculator/src/com/calculator/Multiplier.java" timestamp="1483817224204">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1482420658079">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/calculator/src/com/calculator/CalculateHelper.java" timestamp="1483813627710">
+        <mark key="'" line="51" column="7" />
+        <mark key="[" line="18" column="41" />
+        <mark key="]" line="18" column="74" />
+        <mark key="." line="18" column="74" />
+        <mark key="^" line="18" column="74" />
+      </file>
+      <file name="$USER_HOME$/projects/calculator/src/com/calculator/InvalidStatementException.java" timestamp="1483810736276">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="47" />
+        <mark key="^" line="10" column="47" />
+        <mark key="." line="10" column="47" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/projects/stc_guides/gs-maven/initial/src/main/java/hello/Greeting.java" />
+      <jump line="9" column="19" filename="$USER_HOME$/projects/calculator/src/com/calculator/Main.java" />
+      <jump line="33" column="23" filename="$USER_HOME$/projects/calculator/src/com/calculator/Main.java" />
+      <jump line="24" column="79" filename="$USER_HOME$/projects/calculator/src/com/calculator/CalculateHelper.java" />
+      <jump line="25" column="0" filename="$USER_HOME$/projects/calculator/src/com/calculator/Main.java" />
+      <jump line="12" column="11" filename="$USER_HOME$/projects/calculator/src/com/calculator/Main.java" />
+      <jump line="30" column="7" filename="$USER_HOME$/projects/calculator/src/com/calculator/CalculateHelper.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/calculator/src/com/calculator/Adder.java" />
+      <jump line="20" column="66" filename="$USER_HOME$/projects/calculator/src/com/calculator/Adder.java" />
+      <jump line="21" column="38" filename="$USER_HOME$/projects/calculator/src/com/calculator/Adder.java" />
+      <jump line="29" column="11" filename="$USER_HOME$/projects/calculator/src/com/calculator/Adder.java" />
+      <jump line="30" column="9" filename="$USER_HOME$/projects/calculator/src/com/calculator/Adder.java" />
+      <jump line="15" column="40" filename="$USER_HOME$/projects/calculator/src/com/calculator/Main.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhBTExPICsrKysgRE9ORSIpOwo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>System.out.println(&quot;compared- &quot; + keyword + &quot; - vs. - &quot; + handler.getKeyword() +  &quot; - and found that your handler is ... &quot; + theHandler );</text>
+      </register>
+      <register name="/" type="4">
+        <text>get</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImdvaW5nIHRvIG9wZXJhdGUgb24gLi4uLiAiICsgcmlnaHRWYWwgKyAiICAgIiArIGxlZnRWYWwpOw==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhBTExPICsrKysgRE9ORSIpOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImdvaW5nIHRvIG9wZXJhdGUgb24gLi4uLiAiICsgcmlnaHRWYWwgKyAiICAgIiArIGxlZnRWYWwpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGVmdFZhbCArICIuLi4uLiIgKyByaWdodFZhbCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJrZXl3b3JkIDogIiArIGtleXdvcmQpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiaGFuZGxlcnMga2V5d29yZCAiICsgaGFuZGxlci5nZXRLZXl3b3JkKCkpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhBTExPICoqKiogMSIpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJIQUxMTyAqKioqIDIiKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJnb2luZyB0byBvcGVyYXRlIG9uIC4uLi4gIiArIHJpZ2h0VmFsICsgIiAgICIgKyBsZWZ0VmFsKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlxuXG5IQUxMTyBPT08gLSBmb3IgbG9vcCIpOwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>get</last-search>
+      <last-offset />
+      <last-pattern>get</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxpbml0aWFsaXNpbmdcPg==</entry>
+        <entry>setRe</entry>
+        <entry>setResult</entry>
+        <entry>getRe</entry>
+        <entry>get</entry>
+      </history-search>
+      <history-cmd>
+        <entry>wq</entry>
+        <entry>q</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
