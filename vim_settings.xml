@@ -19,11 +19,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/calculator/src/com/calculator/Main.java" timestamp="1483817209876">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
+      <file name="$USER_HOME$/projects/calculator/src/com/calculator/Main.java" timestamp="1483818601148">
+        <mark key="[" line="13" column="70" />
+        <mark key="]" line="13" column="98" />
         <mark key="n" line="50" column="109" />
-        <mark key="." line="15" column="0" />
+        <mark key="." line="13" column="93" />
         <mark key="^" line="13" column="98" />
       </file>
       <file name="$USER_HOME$/projects/calculator/src/com/calculator/CaculateBase.java" timestamp="1483733730059">
@@ -128,8 +128,8 @@
       <jump line="15" column="40" filename="$USER_HOME$/projects/calculator/src/com/calculator/Main.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhBTExPICsrKysgRE9ORSIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>new Multiplier(), new Adder()</text>
       </register>
       <register name="-" type="4">
         <text>System.out.println(&quot;compared- &quot; + keyword + &quot; - vs. - &quot; + handler.getKeyword() +  &quot; - and found that your handler is ... &quot; + theHandler );</text>
@@ -138,7 +138,7 @@
         <text>get</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImdvaW5nIHRvIG9wZXJhdGUgb24gLi4uLiAiICsgcmlnaHRWYWwgKyAiICAgIiArIGxlZnRWYWwpOw==</text>
+        <text>new Multiplier(), new Adder()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhBTExPICsrKysgRE9ORSIpOwo=</text>
