@@ -168,7 +168,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlxuXG5IQUxMTyBPT08gLSBmb3IgbG9vcCIpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -187,9 +187,9 @@
         <entry>get</entry>
       </history-search>
       <history-cmd>
+        <entry>w</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
