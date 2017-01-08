@@ -9,6 +9,12 @@
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="38" />
       </file>
+      <file name="$USER_HOME$/projects/fileInteractor/src/com/company/Main.java" timestamp="1483867024461">
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="12" column="33" />
+        <mark key="." line="12" column="33" />
+        <mark key="^" line="12" column="33" />
+      </file>
       <file name="$USER_HOME$/projects/calculator/src/com/calculator/Divider.java" timestamp="1483806970032">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -64,6 +70,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/fileInteractor/src/Helper.java" timestamp="1483865607407">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/projects/stc_guides/gs-maven/initial/src/main/java/hello/Greeting.java" timestamp="1482420522509">
         <mark key="'" line="0" column="0" />
@@ -128,47 +140,52 @@
       <jump line="15" column="40" filename="$USER_HOME$/projects/calculator/src/com/calculator/Main.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>new Multiplier(), new Adder()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>System.out.println(&quot;compared- &quot; + keyword + &quot; - vs. - &quot; + handler.getKeyword() +  &quot; - and found that your handler is ... &quot; + theHandler );</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
       </register>
       <register name="0" type="4">
-        <text>new Multiplier(), new Adder()</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgZG9UcnlXaXRoUmVzb3VyY2VzKCkgewogICAgICAgICAgICBjaGFyW10gYnVmZiA9IG5ldyBjaGFyWzhdOwogICAgICAgICAgICBpbnQgbGVuZ3RoOwogICAgICAgICAgICB0cnkgKFJlYWRlciByZWFkZXIgPSBIZWxwZXIub3BlblJlYWRlcigiZmlsZTEudHh0IikpIHsKICAgICAgICAgICAgICAgIHdoaWxlICgobGVuZ3RoID0gcmVhZGVyLnJlYWQoYnVmZikpID49IDApIHsKICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlxubGVuZ3RoOiAiICsgbGVuZ3RoKTsKICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihidWZmW2ldKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0gY2F0Y2ggKCBJT0V4Y2VwdGlvbiBlICkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGUuZ2V0Q2xhc3MoKS5nZXRTaW1wbGVOYW1lKCkgKyAiIC0gIiArIGUuZ2V0TWVzc2FnZSgpKTsKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhBTExPICsrKysgRE9ORSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImdvaW5nIHRvIG9wZXJhdGUgb24gLi4uLiAiICsgcmlnaHRWYWwgKyAiICAgIiArIGxlZnRWYWwpOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihidWZmW2ldKTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGVmdFZhbCArICIuLi4uLiIgKyByaWdodFZhbCk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJrZXl3b3JkIDogIiArIGtleXdvcmQpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiaGFuZGxlcnMga2V5d29yZCAiICsgaGFuZGxlci5nZXRLZXl3b3JkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhBTExPICoqKiogMSIpOwo=</text>
+      <register name="6" type="4">
+        <text>} finally {
+                try {
+                    if (reader != null) reader.close();
+                } catch (IOException e2) {
+                    System.out.println(e2.getClass().getSimpleName() + &quot; --&quot; + e2.getMessage());
+                }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJIQUxMTyAqKioqIDIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVhZGVyIHJlYWRlciA9IG51bGw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJnb2luZyB0byBvcGVyYXRlIG9uIC4uLi4gIiArIHJpZ2h0VmFsICsgIiAgICIgKyBsZWZ0VmFsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlYWRlciA9IEhlbHBlci5vcGVuUmVhZGVyKCJmaWxlMS50eHQiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlxuXG5IQUxMTyBPT08gLSBmb3IgbG9vcCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -187,9 +204,9 @@
         <entry>get</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
