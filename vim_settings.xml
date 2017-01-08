@@ -9,11 +9,11 @@
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/fileInteractor/src/com/company/Main.java" timestamp="1483867024461">
-        <mark key="[" line="11" column="2" />
-        <mark key="]" line="12" column="33" />
-        <mark key="." line="12" column="33" />
-        <mark key="^" line="12" column="33" />
+      <file name="$USER_HOME$/projects/fileInteractor/src/com/company/Main.java" timestamp="1483878848394">
+        <mark key="[" line="70" column="21" />
+        <mark key="]" line="71" column="71" />
+        <mark key="." line="71" column="71" />
+        <mark key="^" line="71" column="71" />
       </file>
       <file name="$USER_HOME$/projects/calculator/src/com/calculator/Divider.java" timestamp="1483806970032">
         <mark key="[" line="10" column="0" />
@@ -123,6 +123,12 @@
         <mark key="^" line="10" column="47" />
         <mark key="." line="10" column="47" />
       </file>
+      <file name="$USER_HOME$/projects/fileInteractor/src/com/company/MyAutoCloseable.java" timestamp="1483878735056">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="1" />
+        <mark key="^" line="10" column="1" />
+        <mark key="." line="10" column="1" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/projects/stc_guides/gs-maven/initial/src/main/java/hello/Greeting.java" />
@@ -141,10 +147,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
@@ -153,36 +159,31 @@
         <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgZG9UcnlXaXRoUmVzb3VyY2VzKCkgewogICAgICAgICAgICBjaGFyW10gYnVmZiA9IG5ldyBjaGFyWzhdOwogICAgICAgICAgICBpbnQgbGVuZ3RoOwogICAgICAgICAgICB0cnkgKFJlYWRlciByZWFkZXIgPSBIZWxwZXIub3BlblJlYWRlcigiZmlsZTEudHh0IikpIHsKICAgICAgICAgICAgICAgIHdoaWxlICgobGVuZ3RoID0gcmVhZGVyLnJlYWQoYnVmZikpID49IDApIHsKICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlxubGVuZ3RoOiAiICsgbGVuZ3RoKTsKICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihidWZmW2ldKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0gY2F0Y2ggKCBJT0V4Y2VwdGlvbiBlICkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGUuZ2V0Q2xhc3MoKS5nZXRTaW1wbGVOYW1lKCkgKyAiIC0gIiArIGUuZ2V0TWVzc2FnZSgpKTsKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihidWZmW2ldKTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcih0aCkgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoKAogICAgICAgICAgICAgICAgICAgICApIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkTXlBdXRvQ2xvc2VhYmxlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>} finally {
-                try {
-                    if (reader != null) reader.close();
-                } catch (IOException e2) {
-                    System.out.println(e2.getClass().getSimpleName() + &quot; --&quot; + e2.getMessage());
-                }</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihidWZmW2ldKTs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVhZGVyIHJlYWRlciA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlYWRlciA9IEhlbHBlci5vcGVuUmVhZGVyKCJmaWxlMS50eHQiKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
