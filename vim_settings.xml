@@ -162,7 +162,7 @@
         <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text>InputSt</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgd3JpdGVUb0ZpbGVJblppcDEoRmlsZVN5c3RlbSB6aXBGcywgU3RyaW5nW10gZGF0YSkgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICAKICAgIH0=</text>
@@ -199,9 +199,9 @@
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search>InputSt</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern>InputSt</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -212,6 +212,7 @@
         <entry>setResult</entry>
         <entry>getRe</entry>
         <entry>get</entry>
+        <entry>InputSt</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
