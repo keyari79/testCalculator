@@ -12,11 +12,12 @@
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/projects/fileInteractor/src/com/company/Main.java" timestamp="1483881591807">
-        <mark key="[" line="27" column="22" />
-        <mark key="]" line="27" column="22" />
-        <mark key="." line="27" column="22" />
-        <mark key="^" line="35" column="0" />
+      <file name="$USER_HOME$/projects/fileInteractor/src/com/company/Main.java" timestamp="1484116965295">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="25" column="50" />
+        <mark key="]" line="26" column="47" />
+        <mark key="." line="26" column="47" />
+        <mark key="^" line="26" column="47" />
       </file>
       <file name="$USER_HOME$/projects/calculator/src/com/calculator/Divider.java" timestamp="1483806970032">
         <mark key="[" line="10" column="0" />
@@ -153,55 +154,69 @@
       <jump line="29" column="11" filename="$USER_HOME$/projects/calculator/src/com/calculator/Adder.java" />
       <jump line="30" column="9" filename="$USER_HOME$/projects/calculator/src/com/calculator/Adder.java" />
       <jump line="15" column="40" filename="$USER_HOME$/projects/calculator/src/com/calculator/Main.java" />
+      <jump line="41" column="19" filename="$USER_HOME$/projects/fileInteractor/src/com/company/Main.java" />
+      <jump line="44" column="46" filename="$USER_HOME$/projects/fileInteractor/src/com/company/Main.java" />
+      <jump line="49" column="34" filename="$USER_HOME$/projects/fileInteractor/src/com/company/Main.java" />
+      <jump line="65" column="42" filename="$USER_HOME$/projects/fileInteractor/src/com/company/Main.java" />
+      <jump line="31" column="12" filename="$USER_HOME$/projects/fileInteractor/src/com/company/Main.java" />
+      <jump line="40" column="84" filename="$USER_HOME$/projects/fileInteractor/src/com/company/Main.java" />
+      <jump line="60" column="16" filename="$USER_HOME$/projects/fileInteractor/src/com/company/Main.java" />
+      <jump line="3" column="15" filename="$USER_HOME$/projects/fileInteractor/src/com/company/Main.java" />
+      <jump line="52" column="8" filename="$USER_HOME$/projects/fileInteractor/src/com/company/Main.java" />
+      <jump line="57" column="40" filename="$USER_HOME$/projects/fileInteractor/src/com/company/Main.java" />
+      <jump line="66" column="12" filename="$USER_HOME$/projects/fileInteractor/src/com/company/Main.java" />
+      <jump line="50" column="48" filename="$USER_HOME$/projects/fileInteractor/src/com/company/Main.java" />
+      <jump line="56" column="42" filename="$USER_HOME$/projects/fileInteractor/src/com/company/Main.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/fileInteractor/src/com/company/Main.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>4</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>//</text>
       </register>
       <register name="/" type="4">
-        <text>InputSt</text>
+        <text>FileSystem</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgd3JpdGVUb0ZpbGVJblppcDEoRmlsZVN5c3RlbSB6aXBGcywgU3RyaW5nW10gZGF0YSkgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICAKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBNYXRjaGVyIG1hdGNoZXIgPSBQYXR0ZXJuLm1hdGNoZXModmFsdWUxKTsgLy8gbm93Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPdgo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkoKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ZXZycmlkZQogICAgcHVibGljIGludCBoYXNoQ29kZSgpIHsKICAgICAgICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIEBPdgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcih0aCkgICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ZXZycmlkZQogICAgcHVibGljIGludCBoYXNoQ29kZSgpIHsKICAgICAgICA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoKAogICAgICAgICAgICAgICAgICAgICApIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkTXlBdXRvQ2xvc2VhYmxlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcih0aCkgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoKAogICAgICAgICAgICAgICAgICAgICApIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>InputSt</last-search>
+      <last-search>FileSystem</last-search>
       <last-offset />
-      <last-pattern>InputSt</last-pattern>
+      <last-pattern>FileSystem</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -213,11 +228,16 @@
         <entry>getRe</entry>
         <entry>get</entry>
         <entry>InputSt</entry>
+        <entry>InputStream</entry>
+        <entry>FileS</entry>
+        <entry>Buffered</entry>
+        <entry>Files\.</entry>
+        <entry>FileSystem</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -231,6 +251,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
