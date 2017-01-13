@@ -3,14 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1484111339306">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/stc_guides/gs-rest-service/calculator/src/Main.java" timestamp="1483709698615">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="38" />
-        <mark key="^" line="5" column="38" />
-        <mark key="." line="5" column="38" />
+      <file name="$USER_HOME$/projects/RegExper/src/Product.java" timestamp="1484339041339">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="13" column="28" />
+        <mark key="^" line="13" column="28" />
       </file>
       <file name="$USER_HOME$/projects/fileInteractor/src/com/company/Main.java" timestamp="1484116965295">
         <mark key="'" line="0" column="0" />
@@ -18,16 +15,6 @@
         <mark key="]" line="26" column="47" />
         <mark key="." line="26" column="47" />
         <mark key="^" line="26" column="47" />
-      </file>
-      <file name="$USER_HOME$/projects/calculator/src/com/calculator/Divider.java" timestamp="1483806970032">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/calculator/src/com/calculator/DynamicHelper.java" timestamp="1483817259047">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/projects/calculator/src/com/calculator/Main.java" timestamp="1483818601148">
         <mark key="[" line="13" column="70" />
@@ -54,6 +41,57 @@
         <mark key="^" line="13" column="29" />
         <mark key="." line="13" column="29" />
       </file>
+      <file name="$USER_HOME$/projects/stc_guides/gs-rest-service/complete/src/main/java/hello/GreetingController.java" timestamp="1482422686737">
+        <mark key="[" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/stc_guides/gs-maven/initial/src/main/java/hello/GreetingController.java" timestamp="1482420737351">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/calculator/src/Main.java" timestamp="1483710310688">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="45" />
+        <mark key="^" line="5" column="45" />
+        <mark key="." line="5" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/calculator/src/com/calculator/MathCommand.java" timestamp="1483785724674">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="9" column="9" />
+        <mark key="^" line="9" column="9" />
+        <mark key="." line="9" column="9" />
+      </file>
+      <file name="$USER_HOME$/projects/calculator/src/com/calculator/Multiplier.java" timestamp="1483817224204">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/calculator/src/com/calculator/CalculateHelper.java" timestamp="1483813627710">
+        <mark key="'" line="51" column="7" />
+        <mark key="[" line="18" column="41" />
+        <mark key="]" line="18" column="74" />
+        <mark key="." line="18" column="74" />
+        <mark key="^" line="18" column="74" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1484111339306">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/stc_guides/gs-rest-service/calculator/src/Main.java" timestamp="1483709698615">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="38" />
+        <mark key="^" line="5" column="38" />
+        <mark key="." line="5" column="38" />
+      </file>
+      <file name="$USER_HOME$/projects/calculator/src/com/calculator/Divider.java" timestamp="1483806970032">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/calculator/src/com/calculator/DynamicHelper.java" timestamp="1483817259047">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/calculator/src/com/calculator/MathEquation.java" timestamp="1483735632916">
         <mark key="[" line="22" column="0" />
         <mark key="m" line="18" column="13" />
@@ -61,19 +99,11 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/stc_guides/gs-rest-service/complete/src/main/java/hello/GreetingController.java" timestamp="1482422686737">
-        <mark key="[" line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/calculator/src/com/calculator/Adder.java" timestamp="1483817275067">
         <mark key="'" line="30" column="9" />
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/stc_guides/gs-maven/initial/src/main/java/hello/GreetingController.java" timestamp="1482420737351">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fileInteractor/src/Helper.java" timestamp="1483865607407">
         <mark key="[" line="0" column="0" />
@@ -88,44 +118,20 @@
         <mark key="^" line="19" column="11" />
         <mark key="." line="19" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/calculator/src/Main.java" timestamp="1483710310688">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="5" column="45" />
-        <mark key="^" line="5" column="45" />
-        <mark key="." line="5" column="45" />
-      </file>
-      <file name="$USER_HOME$/projects/calculator/src/com/calculator/MathCommand.java" timestamp="1483785724674">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="9" column="9" />
-        <mark key="^" line="9" column="9" />
-        <mark key="." line="9" column="9" />
-      </file>
       <file name="$USER_HOME$/projects/calculator/src/com/calculator/CalculateBase.java" timestamp="1483736271791">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="113" />
         <mark key="^" line="28" column="113" />
         <mark key="." line="28" column="113" />
       </file>
-      <file name="$USER_HOME$/projects/calculator/src/com/calculator/Multiplier.java" timestamp="1483817224204">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1484111339357">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/RegExper/src/Main.java" timestamp="1484111267646">
-        <mark key="[" line="4" column="23" />
-        <mark key="]" line="5" column="39" />
-        <mark key="^" line="5" column="39" />
-        <mark key="." line="5" column="39" />
-      </file>
-      <file name="$USER_HOME$/projects/calculator/src/com/calculator/CalculateHelper.java" timestamp="1483813627710">
-        <mark key="'" line="51" column="7" />
-        <mark key="[" line="18" column="41" />
-        <mark key="]" line="18" column="74" />
-        <mark key="." line="18" column="74" />
-        <mark key="^" line="18" column="74" />
+      <file name="$USER_HOME$/projects/RegExper/src/Main.java" timestamp="1484339195320">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="11" column="4" />
+        <mark key="^" line="11" column="4" />
+        <mark key="." line="11" column="4" />
       </file>
       <file name="$USER_HOME$/projects/calculator/src/com/calculator/InvalidStatementException.java" timestamp="1483810736276">
         <mark key="[" line="9" column="0" />
@@ -170,11 +176,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/fileInteractor/src/com/company/Main.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>new Produc   }</text>
       </register>
       <register name="-" type="4">
-        <text>//</text>
+        <text>new Produc   }</text>
       </register>
       <register name="/" type="4">
         <text>FileSystem</text>
@@ -183,34 +189,34 @@
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgd3JpdGVUb0ZpbGVJblppcDEoRmlsZVN5c3RlbSB6aXBGcywgU3RyaW5nW10gZGF0YSkgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICAKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNYXRjaGVyIG1hdGNoZXIgPSBQYXR0ZXJuLm1hdGNoZXModmFsdWUxKTsgLy8gbm93Cg==</text>
+        <text encoding="base64">ICAgIFB1YmxpYyBQcm9kdWN0KCkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkoKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgUHJvZHVjdCgpCiAgICBwdWJsaWMgUHJvZHVjdA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBwdQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBPdgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBQcm9kdWN0KCkK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ZXZycmlkZQogICAgcHVibGljIGludCBoYXNoQ29kZSgpIHsKICAgICAgICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBNYXRjaGVyIG1hdGNoZXIgPSBQYXR0ZXJuLm1hdGNoZXModmFsdWUxKTsgLy8gbm93Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcih0aCkgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoKAogICAgICAgICAgICAgICAgICAgICApIHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -236,8 +242,8 @@
       </history-search>
       <history-cmd>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
